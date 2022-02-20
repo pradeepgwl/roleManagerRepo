@@ -1,0 +1,1 @@
+{"Roles":[{"RoleId":1,"RoleName":"Product Administrator"},{"RoleId":2,"RoleName":"Engineer"}],"Tasks":[{"TaskId":1,"Name":"Task 1","TaskGroup":"Action"},{"TaskId":2,"Name":"Task 2","TaskGroup":"Action"},{"TaskId":3,"Name":"Task 3","TaskGroup":"View"},{"TaskId":4,"Name":"Task 4","TaskGroup":"View"}],"Permissions":[{"RoleId":1,"Tasks":[1,2,3,4]},{"RoleId":2,"Tasks":[1]}]}
